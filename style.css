@@ -1,0 +1,21 @@
+.top-part {
+    background-color: rgb(204, 233, 198);
+    padding: 20px;
+}
+.learn{
+    max-width: 400px;
+}
+.student img{
+    width: 60px;
+    height:70px  ;
+}
+.icon{
+    width: 30px;
+}
+.started-btn{
+    width: 150px;
+    border-radius: 50px !important;
+}
+.card-category{
+border: none !important;
+}
